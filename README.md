@@ -1,4 +1,4 @@
-Bank Simulation
+### Bank Simulation
 
 This project is a bank simulation application developed using C# and SQL. It allows users to manage their accounts, perform money transfers, and view transaction history through a user-friendly interface.
 
