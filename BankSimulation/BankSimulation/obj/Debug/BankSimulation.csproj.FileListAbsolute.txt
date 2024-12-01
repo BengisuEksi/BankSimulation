@@ -1,0 +1,14 @@
+C:\Users\bengi\Desktop\C# Projects\BankSimulation\BankSimulation\bin\Debug\BankSimulation.exe.config
+C:\Users\bengi\Desktop\C# Projects\BankSimulation\BankSimulation\bin\Debug\BankSimulation.exe
+C:\Users\bengi\Desktop\C# Projects\BankSimulation\BankSimulation\bin\Debug\BankSimulation.pdb
+C:\Users\bengi\Desktop\C# Projects\BankSimulation\BankSimulation\obj\Debug\BankSimulation.csproj.AssemblyReference.cache
+C:\Users\bengi\Desktop\C# Projects\BankSimulation\BankSimulation\obj\Debug\BankSimulation.Properties.Resources.resources
+C:\Users\bengi\Desktop\C# Projects\BankSimulation\BankSimulation\obj\Debug\BankSimulation.SignIn.resources
+C:\Users\bengi\Desktop\C# Projects\BankSimulation\BankSimulation\obj\Debug\BankSimulation.csproj.GenerateResource.cache
+C:\Users\bengi\Desktop\C# Projects\BankSimulation\BankSimulation\obj\Debug\BankSimulation.csproj.CoreCompileInputs.cache
+C:\Users\bengi\Desktop\C# Projects\BankSimulation\BankSimulation\obj\Debug\BankSimulation.exe
+C:\Users\bengi\Desktop\C# Projects\BankSimulation\BankSimulation\obj\Debug\BankSimulation.pdb
+C:\Users\bengi\Desktop\C# Projects\BankSimulation\BankSimulation\obj\Debug\BankSimulation.HomePage.resources
+C:\Users\bengi\Desktop\C# Projects\BankSimulation\BankSimulation\obj\Debug\BankSimulation.NewAccount.resources
+C:\Users\bengi\Desktop\C# Projects\BankSimulation\BankSimulation\obj\Debug\BankSimulation.MyAccount.resources
+C:\Users\bengi\Desktop\C# Projects\BankSimulation\BankSimulation\obj\Debug\BankSimulation.NewTransfer.resources
